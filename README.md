@@ -6,11 +6,11 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 
 ## Solução 
 
-Neste exemplo, a classe abstrata Smartphone contém propriedades compartilhadas e um método abstrato InstalarAplicativo, que deve ser implementado nas classes filhas:
+Neste exemplo, a classe Smartphone contém propriedades compartilhadas e um método InstalarAplicativo, que deve ser implementado nas classes filhas:
 
 ![Smartphone class](Imagens/Smartphone.png)
 
-As classes filhas Samsung e iPhone herda as propriedades da classe abstrata Smartphone e fornece sua própria implementação para o método InstalarAplicativo. Além disso, a classe abstrata impede a instância dessa classe.
+As classes filhas Samsung e iPhone herda as propriedades da classe Smartphone e fornece sua própria implementação para o método InstalarAplicativo.
 
 ![Smartphone class](Imagens/Samsung.png) 
 
